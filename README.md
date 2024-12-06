@@ -1,0 +1,1 @@
+This project is a Django-based web application that integrates Firebase for user authentication. It allows users to sign in, register, and view client data from Firebase. The application uses SQLite for local session management, with HTML templates for the front end. It demonstrates backend and Firebase integration with Django.
